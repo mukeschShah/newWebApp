@@ -5,6 +5,7 @@
   },
   "apps": [
     {
+      "baseURL" : "newWebsite",
       "root": "src",
       "outDir": "dist",
       "assets": [
